@@ -135,7 +135,7 @@ CS 전공 문제를 풀면 틀린 문제, 오래 걸린 문제, 힌트를 쓴 �
 
 ### AmbuDock · 응급실 추천 웹 서비스
 
-<sub>디지털 사회혁신 서비스 개발·아이디어 공모전 은상 · 개인 프로젝트 · 2025.10 ~ 11 · <a href="https://github.com/yongzooda/yongzooda/blob/main/projects/ambudock.md">상세 문서</a></sub>
+<sub>디지털 사회혁신 서비스 개발·아이디어 공모전 은상 · 개인 프로젝트 · 2025.10 ~ 11 · <a href="https://github.com/yongzooda/AmbuDock">GitHub</a> · <a href="https://github.com/yongzooda/yongzooda/blob/main/projects/ambudock.md">상세 문서</a></sub>
 
 실시간 응급실 병상 정보에 재난문자와 이동 시간까지 따져, 지금 갈 만한 응급실을 골라 주는 모바일 웹 서비스
 

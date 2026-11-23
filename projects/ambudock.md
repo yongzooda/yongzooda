@@ -13,6 +13,7 @@
 - **담당** · 서비스 기획 · 병상·재난문자 수집 스케줄러 · 병원 자동 등록 · 추천 API · React 지도 화면 · 본선 발표
 - **스택** · Java 21 · Spring Boot 3.5 · JPA · MySQL · Flyway · Caffeine · React · TypeScript
 - **연동** · 국립중앙의료원 응급실 API · 행정안전부 재난문자 API · 카카오 로컬 · TMAP
+- **저장소** · [yongzooda/AmbuDock](https://github.com/yongzooda/AmbuDock)
 
 ## 구조
 
